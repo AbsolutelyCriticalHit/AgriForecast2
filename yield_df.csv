@@ -1,0 +1,829 @@
+Area,Item,hg/ha_yield,average_rain_fall_mm_per_year,pesticides_tonnes,avg_temp
+Indonesia,Cassava,120691,2702,2432,25.37
+Indonesia,Cassava,120691,2702,2432,27.05
+Indonesia,Cassava,120691,2702,2432,27.11
+Indonesia,Cassava,120691,2702,2432,27.18
+Indonesia,Cassava,120691,2702,2432,26.79
+Indonesia,Cassava,120691,2702,2432,27.47
+Indonesia,Maize,21323,2702,2432,25.37
+Indonesia,Maize,21323,2702,2432,27.05
+Indonesia,Maize,21323,2702,2432,27.11
+Indonesia,Maize,21323,2702,2432,27.18
+Indonesia,Maize,21323,2702,2432,26.79
+Indonesia,Maize,21323,2702,2432,27.47
+Indonesia,Potatoes,141637,2702,2432,25.37
+Indonesia,Potatoes,141637,2702,2432,27.05
+Indonesia,Potatoes,141637,2702,2432,27.11
+Indonesia,Potatoes,141637,2702,2432,27.18
+Indonesia,Potatoes,141637,2702,2432,26.79
+Indonesia,Potatoes,141637,2702,2432,27.47
+Indonesia,"Rice, paddy",43018,2702,2432,25.37
+Indonesia,"Rice, paddy",43018,2702,2432,27.05
+Indonesia,"Rice, paddy",43018,2702,2432,27.11
+Indonesia,"Rice, paddy",43018,2702,2432,27.18
+Indonesia,"Rice, paddy",43018,2702,2432,26.79
+Indonesia,"Rice, paddy",43018,2702,2432,27.47
+Indonesia,Soybeans,11149,2702,2432,25.37
+Indonesia,Soybeans,11149,2702,2432,27.05
+Indonesia,Soybeans,11149,2702,2432,27.11
+Indonesia,Soybeans,11149,2702,2432,27.18
+Indonesia,Soybeans,11149,2702,2432,26.79
+Indonesia,Soybeans,11149,2702,2432,27.47
+Indonesia,Sweet potatoes,94450,2702,2432,25.37
+Indonesia,Sweet potatoes,94450,2702,2432,27.05
+Indonesia,Sweet potatoes,94450,2702,2432,27.11
+Indonesia,Sweet potatoes,94450,2702,2432,27.18
+Indonesia,Sweet potatoes,94450,2702,2432,26.79
+Indonesia,Sweet potatoes,94450,2702,2432,27.47
+Indonesia,Cassava,120946,2702,3259,25.27
+Indonesia,Cassava,120946,2702,3259,27.04
+Indonesia,Cassava,120946,2702,3259,26.92
+Indonesia,Cassava,120946,2702,3259,27.05
+Indonesia,Cassava,120946,2702,3259,26.61
+Indonesia,Cassava,120946,2702,3259,27.21
+Indonesia,Maize,21505,2702,3259,25.27
+Indonesia,Maize,21505,2702,3259,27.04
+Indonesia,Maize,21505,2702,3259,26.92
+Indonesia,Maize,21505,2702,3259,27.05
+Indonesia,Maize,21505,2702,3259,26.61
+Indonesia,Maize,21505,2702,3259,27.21
+Indonesia,Potatoes,132721,2702,3259,25.27
+Indonesia,Potatoes,132721,2702,3259,27.04
+Indonesia,Potatoes,132721,2702,3259,26.92
+Indonesia,Potatoes,132721,2702,3259,27.05
+Indonesia,Potatoes,132721,2702,3259,26.61
+Indonesia,Potatoes,132721,2702,3259,27.21
+Indonesia,"Rice, paddy",43465,2702,3259,25.27
+Indonesia,"Rice, paddy",43465,2702,3259,27.04
+Indonesia,"Rice, paddy",43465,2702,3259,26.92
+Indonesia,"Rice, paddy",43465,2702,3259,27.05
+Indonesia,"Rice, paddy",43465,2702,3259,26.61
+Indonesia,"Rice, paddy",43465,2702,3259,27.21
+Indonesia,Soybeans,11369,2702,3259,25.27
+Indonesia,Soybeans,11369,2702,3259,27.04
+Indonesia,Soybeans,11369,2702,3259,26.92
+Indonesia,Soybeans,11369,2702,3259,27.05
+Indonesia,Soybeans,11369,2702,3259,26.61
+Indonesia,Soybeans,11369,2702,3259,27.21
+Indonesia,Sweet potatoes,95150,2702,3259,25.27
+Indonesia,Sweet potatoes,95150,2702,3259,27.04
+Indonesia,Sweet potatoes,95150,2702,3259,26.92
+Indonesia,Sweet potatoes,95150,2702,3259,27.05
+Indonesia,Sweet potatoes,95150,2702,3259,26.61
+Indonesia,Sweet potatoes,95150,2702,3259,27.21
+Indonesia,Cassava,122220,2702,825,25.17
+Indonesia,Cassava,122220,2702,825,26.96
+Indonesia,Cassava,122220,2702,825,27.01
+Indonesia,Cassava,122220,2702,825,27.2
+Indonesia,Cassava,122220,2702,825,26.72
+Indonesia,Cassava,122220,2702,825,27.4
+Indonesia,Maize,22030,2702,825,25.17
+Indonesia,Maize,22030,2702,825,26.96
+Indonesia,Maize,22030,2702,825,27.01
+Indonesia,Maize,22030,2702,825,27.2
+Indonesia,Maize,22030,2702,825,26.72
+Indonesia,Maize,22030,2702,825,27.4
+Indonesia,Potatoes,143819,2702,825,25.17
+Indonesia,Potatoes,143819,2702,825,26.96
+Indonesia,Potatoes,143819,2702,825,27.01
+Indonesia,Potatoes,143819,2702,825,27.2
+Indonesia,Potatoes,143819,2702,825,26.72
+Indonesia,Potatoes,143819,2702,825,27.4
+Indonesia,"Rice, paddy",43446,2702,825,25.17
+Indonesia,"Rice, paddy",43446,2702,825,26.96
+Indonesia,"Rice, paddy",43446,2702,825,27.01
+Indonesia,"Rice, paddy",43446,2702,825,27.2
+Indonesia,"Rice, paddy",43446,2702,825,26.72
+Indonesia,"Rice, paddy",43446,2702,825,27.4
+Indonesia,Soybeans,11230,2702,825,25.17
+Indonesia,Soybeans,11230,2702,825,26.96
+Indonesia,Soybeans,11230,2702,825,27.01
+Indonesia,Soybeans,11230,2702,825,27.2
+Indonesia,Soybeans,11230,2702,825,26.72
+Indonesia,Soybeans,11230,2702,825,27.4
+Indonesia,Sweet potatoes,94481,2702,825,25.17
+Indonesia,Sweet potatoes,94481,2702,825,26.96
+Indonesia,Sweet potatoes,94481,2702,825,27.01
+Indonesia,Sweet potatoes,94481,2702,825,27.2
+Indonesia,Sweet potatoes,94481,2702,825,26.72
+Indonesia,Sweet potatoes,94481,2702,825,27.4
+Indonesia,Cassava,123323,2702,1597,25.46
+Indonesia,Cassava,123323,2702,1597,27.04
+Indonesia,Cassava,123323,2702,1597,26.9
+Indonesia,Cassava,123323,2702,1597,27.21
+Indonesia,Cassava,123323,2702,1597,26.88
+Indonesia,Cassava,123323,2702,1597,27.51
+Indonesia,Maize,21975,2702,1597,25.46
+Indonesia,Maize,21975,2702,1597,27.04
+Indonesia,Maize,21975,2702,1597,26.9
+Indonesia,Maize,21975,2702,1597,27.21
+Indonesia,Maize,21975,2702,1597,26.88
+Indonesia,Maize,21975,2702,1597,27.51
+Indonesia,Potatoes,158338,2702,1597,25.46
+Indonesia,Potatoes,158338,2702,1597,27.04
+Indonesia,Potatoes,158338,2702,1597,26.9
+Indonesia,Potatoes,158338,2702,1597,27.21
+Indonesia,Potatoes,158338,2702,1597,26.88
+Indonesia,Potatoes,158338,2702,1597,27.51
+Indonesia,"Rice, paddy",43750,2702,1597,25.46
+Indonesia,"Rice, paddy",43750,2702,1597,27.04
+Indonesia,"Rice, paddy",43750,2702,1597,26.9
+Indonesia,"Rice, paddy",43750,2702,1597,27.21
+Indonesia,"Rice, paddy",43750,2702,1597,26.88
+Indonesia,"Rice, paddy",43750,2702,1597,27.51
+Indonesia,Soybeans,11621,2702,1597,25.46
+Indonesia,Soybeans,11621,2702,1597,27.04
+Indonesia,Soybeans,11621,2702,1597,26.9
+Indonesia,Soybeans,11621,2702,1597,27.21
+Indonesia,Soybeans,11621,2702,1597,26.88
+Indonesia,Soybeans,11621,2702,1597,27.51
+Indonesia,Sweet potatoes,93183,2702,1597,25.46
+Indonesia,Sweet potatoes,93183,2702,1597,27.04
+Indonesia,Sweet potatoes,93183,2702,1597,26.9
+Indonesia,Sweet potatoes,93183,2702,1597,27.21
+Indonesia,Sweet potatoes,93183,2702,1597,26.88
+Indonesia,Sweet potatoes,93183,2702,1597,27.51
+Indonesia,Cassava,115946,2702,1597,25.21
+Indonesia,Cassava,115946,2702,1597,27.12
+Indonesia,Cassava,115946,2702,1597,26.97
+Indonesia,Cassava,115946,2702,1597,27.34
+Indonesia,Cassava,115946,2702,1597,26.56
+Indonesia,Cassava,115946,2702,1597,27.18
+Indonesia,Maize,22091,2702,1597,25.21
+Indonesia,Maize,22091,2702,1597,27.12
+Indonesia,Maize,22091,2702,1597,26.97
+Indonesia,Maize,22091,2702,1597,27.34
+Indonesia,Maize,22091,2702,1597,26.56
+Indonesia,Maize,22091,2702,1597,27.18
+Indonesia,Potatoes,156474,2702,1597,25.21
+Indonesia,Potatoes,156474,2702,1597,27.12
+Indonesia,Potatoes,156474,2702,1597,26.97
+Indonesia,Potatoes,156474,2702,1597,27.34
+Indonesia,Potatoes,156474,2702,1597,26.56
+Indonesia,Potatoes,156474,2702,1597,27.18
+Indonesia,"Rice, paddy",43453,2702,1597,25.21
+Indonesia,"Rice, paddy",43453,2702,1597,27.12
+Indonesia,"Rice, paddy",43453,2702,1597,26.97
+Indonesia,"Rice, paddy",43453,2702,1597,27.34
+Indonesia,"Rice, paddy",43453,2702,1597,26.56
+Indonesia,"Rice, paddy",43453,2702,1597,27.18
+Indonesia,Soybeans,11123,2702,1597,25.21
+Indonesia,Soybeans,11123,2702,1597,27.12
+Indonesia,Soybeans,11123,2702,1597,26.97
+Indonesia,Soybeans,11123,2702,1597,27.34
+Indonesia,Soybeans,11123,2702,1597,26.56
+Indonesia,Soybeans,11123,2702,1597,27.18
+Indonesia,Sweet potatoes,93583,2702,1597,25.21
+Indonesia,Sweet potatoes,93583,2702,1597,27.12
+Indonesia,Sweet potatoes,93583,2702,1597,26.97
+Indonesia,Sweet potatoes,93583,2702,1597,27.34
+Indonesia,Sweet potatoes,93583,2702,1597,26.56
+Indonesia,Sweet potatoes,93583,2702,1597,27.18
+Indonesia,Cassava,116605,2702,1597,25.46
+Indonesia,Cassava,116605,2702,1597,27.15
+Indonesia,Cassava,116605,2702,1597,27.08
+Indonesia,Cassava,116605,2702,1597,27.28
+Indonesia,Cassava,116605,2702,1597,26.74
+Indonesia,Cassava,116605,2702,1597,27.32
+Indonesia,Maize,22580,2702,1597,25.46
+Indonesia,Maize,22580,2702,1597,27.15
+Indonesia,Maize,22580,2702,1597,27.08
+Indonesia,Maize,22580,2702,1597,27.28
+Indonesia,Maize,22580,2702,1597,26.74
+Indonesia,Maize,22580,2702,1597,27.32
+Indonesia,Potatoes,165939,2702,1597,25.46
+Indonesia,Potatoes,165939,2702,1597,27.15
+Indonesia,Potatoes,165939,2702,1597,27.08
+Indonesia,Potatoes,165939,2702,1597,27.28
+Indonesia,Potatoes,165939,2702,1597,26.74
+Indonesia,Potatoes,165939,2702,1597,27.32
+Indonesia,"Rice, paddy",43487,2702,1597,25.46
+Indonesia,"Rice, paddy",43487,2702,1597,27.15
+Indonesia,"Rice, paddy",43487,2702,1597,27.08
+Indonesia,"Rice, paddy",43487,2702,1597,27.28
+Indonesia,"Rice, paddy",43487,2702,1597,26.74
+Indonesia,"Rice, paddy",43487,2702,1597,27.32
+Indonesia,Soybeans,11371,2702,1597,25.46
+Indonesia,Soybeans,11371,2702,1597,27.15
+Indonesia,Soybeans,11371,2702,1597,27.08
+Indonesia,Soybeans,11371,2702,1597,27.28
+Indonesia,Soybeans,11371,2702,1597,26.74
+Indonesia,Soybeans,11371,2702,1597,27.32
+Indonesia,Sweet potatoes,94939,2702,1597,25.46
+Indonesia,Sweet potatoes,94939,2702,1597,27.15
+Indonesia,Sweet potatoes,94939,2702,1597,27.08
+Indonesia,Sweet potatoes,94939,2702,1597,27.28
+Indonesia,Sweet potatoes,94939,2702,1597,26.74
+Indonesia,Sweet potatoes,94939,2702,1597,27.32
+Indonesia,Cassava,120150,2702,1597,25.41
+Indonesia,Cassava,120150,2702,1597,27.07
+Indonesia,Cassava,120150,2702,1597,27
+Indonesia,Cassava,120150,2702,1597,27.2
+Indonesia,Cassava,120150,2702,1597,26.83
+Indonesia,Cassava,120150,2702,1597,27.53
+Indonesia,Maize,24862,2702,1597,25.41
+Indonesia,Maize,24862,2702,1597,27.07
+Indonesia,Maize,24862,2702,1597,27
+Indonesia,Maize,24862,2702,1597,27.2
+Indonesia,Maize,24862,2702,1597,26.83
+Indonesia,Maize,24862,2702,1597,27.53
+Indonesia,Potatoes,158631,2702,1597,25.41
+Indonesia,Potatoes,158631,2702,1597,27.07
+Indonesia,Potatoes,158631,2702,1597,27
+Indonesia,Potatoes,158631,2702,1597,27.2
+Indonesia,Potatoes,158631,2702,1597,26.83
+Indonesia,Potatoes,158631,2702,1597,27.53
+Indonesia,"Rice, paddy",44168,2702,1597,25.41
+Indonesia,"Rice, paddy",44168,2702,1597,27.07
+Indonesia,"Rice, paddy",44168,2702,1597,27
+Indonesia,"Rice, paddy",44168,2702,1597,27.2
+Indonesia,"Rice, paddy",44168,2702,1597,26.83
+Indonesia,"Rice, paddy",44168,2702,1597,27.53
+Indonesia,Soybeans,11915,2702,1597,25.41
+Indonesia,Soybeans,11915,2702,1597,27.07
+Indonesia,Soybeans,11915,2702,1597,27
+Indonesia,Soybeans,11915,2702,1597,27.2
+Indonesia,Soybeans,11915,2702,1597,26.83
+Indonesia,Soybeans,11915,2702,1597,27.53
+Indonesia,Sweet potatoes,113547,2702,1597,25.41
+Indonesia,Sweet potatoes,113547,2702,1597,27.07
+Indonesia,Sweet potatoes,113547,2702,1597,27
+Indonesia,Sweet potatoes,113547,2702,1597,27.2
+Indonesia,Sweet potatoes,113547,2702,1597,26.83
+Indonesia,Sweet potatoes,113547,2702,1597,27.53
+Indonesia,Cassava,121718,2702,1597,25.52
+Indonesia,Cassava,121718,2702,1597,27.37
+Indonesia,Cassava,121718,2702,1597,27.26
+Indonesia,Cassava,121718,2702,1597,27.62
+Indonesia,Cassava,121718,2702,1597,26.83
+Indonesia,Cassava,121718,2702,1597,27.46
+Indonesia,Maize,26141,2702,1597,25.52
+Indonesia,Maize,26141,2702,1597,27.37
+Indonesia,Maize,26141,2702,1597,27.26
+Indonesia,Maize,26141,2702,1597,27.62
+Indonesia,Maize,26141,2702,1597,26.83
+Indonesia,Maize,26141,2702,1597,27.46
+Indonesia,Potatoes,162061,2702,1597,25.52
+Indonesia,Potatoes,162061,2702,1597,27.37
+Indonesia,Potatoes,162061,2702,1597,27.26
+Indonesia,Potatoes,162061,2702,1597,27.62
+Indonesia,Potatoes,162061,2702,1597,26.83
+Indonesia,Potatoes,162061,2702,1597,27.46
+Indonesia,"Rice, paddy",44322,2702,1597,25.52
+Indonesia,"Rice, paddy",44322,2702,1597,27.37
+Indonesia,"Rice, paddy",44322,2702,1597,27.26
+Indonesia,"Rice, paddy",44322,2702,1597,27.62
+Indonesia,"Rice, paddy",44322,2702,1597,26.83
+Indonesia,"Rice, paddy",44322,2702,1597,27.46
+Indonesia,Soybeans,12125,2702,1597,25.52
+Indonesia,Soybeans,12125,2702,1597,27.37
+Indonesia,Soybeans,12125,2702,1597,27.26
+Indonesia,Soybeans,12125,2702,1597,27.62
+Indonesia,Soybeans,12125,2702,1597,26.83
+Indonesia,Soybeans,12125,2702,1597,27.46
+Indonesia,Sweet potatoes,94532,2702,1597,25.52
+Indonesia,Sweet potatoes,94532,2702,1597,27.37
+Indonesia,Sweet potatoes,94532,2702,1597,27.26
+Indonesia,Sweet potatoes,94532,2702,1597,27.62
+Indonesia,Sweet potatoes,94532,2702,1597,26.83
+Indonesia,Sweet potatoes,94532,2702,1597,27.46
+Indonesia,Cassava,121925,2702,1597,25.81
+Indonesia,Cassava,121925,2702,1597,27.58
+Indonesia,Cassava,121925,2702,1597,27.72
+Indonesia,Cassava,121925,2702,1597,27.77
+Indonesia,Cassava,121925,2702,1597,27.28
+Indonesia,Cassava,121925,2702,1597,27.9
+Indonesia,Maize,26526,2702,1597,25.81
+Indonesia,Maize,26526,2702,1597,27.58
+Indonesia,Maize,26526,2702,1597,27.72
+Indonesia,Maize,26526,2702,1597,27.77
+Indonesia,Maize,26526,2702,1597,27.28
+Indonesia,Maize,26526,2702,1597,27.9
+Indonesia,Potatoes,153432,2702,1597,25.81
+Indonesia,Potatoes,153432,2702,1597,27.58
+Indonesia,Potatoes,153432,2702,1597,27.72
+Indonesia,Potatoes,153432,2702,1597,27.77
+Indonesia,Potatoes,153432,2702,1597,27.28
+Indonesia,Potatoes,153432,2702,1597,27.9
+Indonesia,"Rice, paddy",41974,2702,1597,25.81
+Indonesia,"Rice, paddy",41974,2702,1597,27.58
+Indonesia,"Rice, paddy",41974,2702,1597,27.72
+Indonesia,"Rice, paddy",41974,2702,1597,27.77
+Indonesia,"Rice, paddy",41974,2702,1597,27.28
+Indonesia,"Rice, paddy",41974,2702,1597,27.9
+Indonesia,Soybeans,11923,2702,1597,25.81
+Indonesia,Soybeans,11923,2702,1597,27.58
+Indonesia,Soybeans,11923,2702,1597,27.72
+Indonesia,Soybeans,11923,2702,1597,27.77
+Indonesia,Soybeans,11923,2702,1597,27.28
+Indonesia,Soybeans,11923,2702,1597,27.9
+Indonesia,Sweet potatoes,95750,2702,1597,25.81
+Indonesia,Sweet potatoes,95750,2702,1597,27.58
+Indonesia,Sweet potatoes,95750,2702,1597,27.72
+Indonesia,Sweet potatoes,95750,2702,1597,27.77
+Indonesia,Sweet potatoes,95750,2702,1597,27.28
+Indonesia,Sweet potatoes,95750,2702,1597,27.9
+Indonesia,Cassava,121763,2702,1597,25.26
+Indonesia,Cassava,121763,2702,1597,27.01
+Indonesia,Cassava,121763,2702,1597,26.82
+Indonesia,Cassava,121763,2702,1597,27.17
+Indonesia,Cassava,121763,2702,1597,26.62
+Indonesia,Cassava,121763,2702,1597,27.32
+Indonesia,Maize,26629,2702,1597,25.26
+Indonesia,Maize,26629,2702,1597,27.01
+Indonesia,Maize,26629,2702,1597,26.82
+Indonesia,Maize,26629,2702,1597,27.17
+Indonesia,Maize,26629,2702,1597,26.62
+Indonesia,Maize,26629,2702,1597,27.32
+Indonesia,Potatoes,147199,2702,1597,25.26
+Indonesia,Potatoes,147199,2702,1597,27.01
+Indonesia,Potatoes,147199,2702,1597,26.82
+Indonesia,Potatoes,147199,2702,1597,27.17
+Indonesia,Potatoes,147199,2702,1597,26.62
+Indonesia,Potatoes,147199,2702,1597,27.32
+Indonesia,"Rice, paddy",42519,2702,1597,25.26
+Indonesia,"Rice, paddy",42519,2702,1597,27.01
+Indonesia,"Rice, paddy",42519,2702,1597,26.82
+Indonesia,"Rice, paddy",42519,2702,1597,27.17
+Indonesia,"Rice, paddy",42519,2702,1597,26.62
+Indonesia,"Rice, paddy",42519,2702,1597,27.32
+Indonesia,Soybeans,12013,2702,1597,25.26
+Indonesia,Soybeans,12013,2702,1597,27.01
+Indonesia,Soybeans,12013,2702,1597,26.82
+Indonesia,Soybeans,12013,2702,1597,27.17
+Indonesia,Soybeans,12013,2702,1597,26.62
+Indonesia,Soybeans,12013,2702,1597,27.32
+Indonesia,Sweet potatoes,96698,2702,1597,25.26
+Indonesia,Sweet potatoes,96698,2702,1597,27.01
+Indonesia,Sweet potatoes,96698,2702,1597,26.82
+Indonesia,Sweet potatoes,96698,2702,1597,27.17
+Indonesia,Sweet potatoes,96698,2702,1597,26.62
+Indonesia,Sweet potatoes,96698,2702,1597,27.32
+Indonesia,Cassava,125305,2702,1597,25.46
+Indonesia,Cassava,125305,2702,1597,27.2
+Indonesia,Cassava,125305,2702,1597,27.1
+Indonesia,Cassava,125305,2702,1597,27.23
+Indonesia,Cassava,125305,2702,1597,26.77
+Indonesia,Cassava,125305,2702,1597,27.44
+Indonesia,Maize,27649,2702,1597,25.46
+Indonesia,Maize,27649,2702,1597,27.2
+Indonesia,Maize,27649,2702,1597,27.1
+Indonesia,Maize,27649,2702,1597,27.23
+Indonesia,Maize,27649,2702,1597,26.77
+Indonesia,Maize,27649,2702,1597,27.44
+Indonesia,Potatoes,133759,2702,1597,25.46
+Indonesia,Potatoes,133759,2702,1597,27.2
+Indonesia,Potatoes,133759,2702,1597,27.1
+Indonesia,Potatoes,133759,2702,1597,27.23
+Indonesia,Potatoes,133759,2702,1597,26.77
+Indonesia,Potatoes,133759,2702,1597,27.44
+Indonesia,"Rice, paddy",44007,2702,1597,25.46
+Indonesia,"Rice, paddy",44007,2702,1597,27.2
+Indonesia,"Rice, paddy",44007,2702,1597,27.1
+Indonesia,"Rice, paddy",44007,2702,1597,27.23
+Indonesia,"Rice, paddy",44007,2702,1597,26.77
+Indonesia,"Rice, paddy",44007,2702,1597,27.44
+Indonesia,Soybeans,12335,2702,1597,25.46
+Indonesia,Soybeans,12335,2702,1597,27.2
+Indonesia,Soybeans,12335,2702,1597,27.1
+Indonesia,Soybeans,12335,2702,1597,27.23
+Indonesia,Soybeans,12335,2702,1597,26.77
+Indonesia,Soybeans,12335,2702,1597,27.44
+Indonesia,Sweet potatoes,94211,2702,1597,25.46
+Indonesia,Sweet potatoes,94211,2702,1597,27.2
+Indonesia,Sweet potatoes,94211,2702,1597,27.1
+Indonesia,Sweet potatoes,94211,2702,1597,27.23
+Indonesia,Sweet potatoes,94211,2702,1597,26.77
+Indonesia,Sweet potatoes,94211,2702,1597,27.44
+Indonesia,Cassava,129407,2702,1597,25.43
+Indonesia,Cassava,129407,2702,1597,27.13
+Indonesia,Cassava,129407,2702,1597,27.26
+Indonesia,Cassava,129407,2702,1597,27.32
+Indonesia,Cassava,129407,2702,1597,26.81
+Indonesia,Cassava,129407,2702,1597,27.52
+Indonesia,Maize,28446,2702,1597,25.43
+Indonesia,Maize,28446,2702,1597,27.13
+Indonesia,Maize,28446,2702,1597,27.26
+Indonesia,Maize,28446,2702,1597,27.32
+Indonesia,Maize,28446,2702,1597,26.81
+Indonesia,Maize,28446,2702,1597,27.52
+Indonesia,Potatoes,148495,2702,1597,25.43
+Indonesia,Potatoes,148495,2702,1597,27.13
+Indonesia,Potatoes,148495,2702,1597,27.26
+Indonesia,Potatoes,148495,2702,1597,27.32
+Indonesia,Potatoes,148495,2702,1597,26.81
+Indonesia,Potatoes,148495,2702,1597,27.52
+Indonesia,"Rice, paddy",43879,2702,1597,25.43
+Indonesia,"Rice, paddy",43879,2702,1597,27.13
+Indonesia,"Rice, paddy",43879,2702,1597,27.26
+Indonesia,"Rice, paddy",43879,2702,1597,27.32
+Indonesia,"Rice, paddy",43879,2702,1597,26.81
+Indonesia,"Rice, paddy",43879,2702,1597,27.52
+Indonesia,Soybeans,12181,2702,1597,25.43
+Indonesia,Soybeans,12181,2702,1597,27.13
+Indonesia,Soybeans,12181,2702,1597,27.26
+Indonesia,Soybeans,12181,2702,1597,27.32
+Indonesia,Soybeans,12181,2702,1597,26.81
+Indonesia,Soybeans,12181,2702,1597,27.52
+Indonesia,Sweet potatoes,96634,2702,1597,25.43
+Indonesia,Sweet potatoes,96634,2702,1597,27.13
+Indonesia,Sweet potatoes,96634,2702,1597,27.26
+Indonesia,Sweet potatoes,96634,2702,1597,27.32
+Indonesia,Sweet potatoes,96634,2702,1597,26.81
+Indonesia,Sweet potatoes,96634,2702,1597,27.52
+Indonesia,Cassava,132491,2702,1597,25.64
+Indonesia,Cassava,132491,2702,1597,27.4
+Indonesia,Cassava,132491,2702,1597,27.5
+Indonesia,Cassava,132491,2702,1597,27.49
+Indonesia,Cassava,132491,2702,1597,27.01
+Indonesia,Cassava,132491,2702,1597,27.71
+Indonesia,Maize,30655,2702,1597,25.64
+Indonesia,Maize,30655,2702,1597,27.4
+Indonesia,Maize,30655,2702,1597,27.5
+Indonesia,Maize,30655,2702,1597,27.49
+Indonesia,Maize,30655,2702,1597,27.01
+Indonesia,Maize,30655,2702,1597,27.71
+Indonesia,Potatoes,155903,2702,1597,25.64
+Indonesia,Potatoes,155903,2702,1597,27.4
+Indonesia,Potatoes,155903,2702,1597,27.5
+Indonesia,Potatoes,155903,2702,1597,27.49
+Indonesia,Potatoes,155903,2702,1597,27.01
+Indonesia,Potatoes,155903,2702,1597,27.71
+Indonesia,"Rice, paddy",44691,2702,1597,25.64
+Indonesia,"Rice, paddy",44691,2702,1597,27.4
+Indonesia,"Rice, paddy",44691,2702,1597,27.5
+Indonesia,"Rice, paddy",44691,2702,1597,27.49
+Indonesia,"Rice, paddy",44691,2702,1597,27.01
+Indonesia,"Rice, paddy",44691,2702,1597,27.71
+Indonesia,Soybeans,12360,2702,1597,25.64
+Indonesia,Soybeans,12360,2702,1597,27.4
+Indonesia,Soybeans,12360,2702,1597,27.5
+Indonesia,Soybeans,12360,2702,1597,27.49
+Indonesia,Soybeans,12360,2702,1597,27.01
+Indonesia,Soybeans,12360,2702,1597,27.71
+Indonesia,Sweet potatoes,99940,2702,1597,25.64
+Indonesia,Sweet potatoes,99940,2702,1597,27.4
+Indonesia,Sweet potatoes,99940,2702,1597,27.5
+Indonesia,Sweet potatoes,99940,2702,1597,27.49
+Indonesia,Sweet potatoes,99940,2702,1597,27.01
+Indonesia,Sweet potatoes,99940,2702,1597,27.71
+Indonesia,Cassava,154679,2702,1597,25.67
+Indonesia,Cassava,154679,2702,1597,27.42
+Indonesia,Cassava,154679,2702,1597,27.32
+Indonesia,Cassava,154679,2702,1597,27.57
+Indonesia,Cassava,154679,2702,1597,26.97
+Indonesia,Cassava,154679,2702,1597,27.69
+Indonesia,Maize,33439,2702,1597,25.67
+Indonesia,Maize,33439,2702,1597,27.42
+Indonesia,Maize,33439,2702,1597,27.32
+Indonesia,Maize,33439,2702,1597,27.57
+Indonesia,Maize,33439,2702,1597,26.97
+Indonesia,Maize,33439,2702,1597,27.69
+Indonesia,Potatoes,163870,2702,1597,25.67
+Indonesia,Potatoes,163870,2702,1597,27.42
+Indonesia,Potatoes,163870,2702,1597,27.32
+Indonesia,Potatoes,163870,2702,1597,27.57
+Indonesia,Potatoes,163870,2702,1597,26.97
+Indonesia,Potatoes,163870,2702,1597,27.69
+Indonesia,"Rice, paddy",45365,2702,1597,25.67
+Indonesia,"Rice, paddy",45365,2702,1597,27.42
+Indonesia,"Rice, paddy",45365,2702,1597,27.32
+Indonesia,"Rice, paddy",45365,2702,1597,27.57
+Indonesia,"Rice, paddy",45365,2702,1597,26.97
+Indonesia,"Rice, paddy",45365,2702,1597,27.69
+Indonesia,Soybeans,12801,2702,1597,25.67
+Indonesia,Soybeans,12801,2702,1597,27.42
+Indonesia,Soybeans,12801,2702,1597,27.32
+Indonesia,Soybeans,12801,2702,1597,27.57
+Indonesia,Soybeans,12801,2702,1597,26.97
+Indonesia,Soybeans,12801,2702,1597,27.69
+Indonesia,Sweet potatoes,103053,2702,1597,25.67
+Indonesia,Sweet potatoes,103053,2702,1597,27.42
+Indonesia,Sweet potatoes,103053,2702,1597,27.32
+Indonesia,Sweet potatoes,103053,2702,1597,27.57
+Indonesia,Sweet potatoes,103053,2702,1597,26.97
+Indonesia,Sweet potatoes,103053,2702,1597,27.69
+Indonesia,Cassava,159224,2702,1597,25.59
+Indonesia,Cassava,159224,2702,1597,27.22
+Indonesia,Cassava,159224,2702,1597,27.48
+Indonesia,Cassava,159224,2702,1597,27.44
+Indonesia,Cassava,159224,2702,1597,27.11
+Indonesia,Cassava,159224,2702,1597,27.77
+Indonesia,Maize,34539,2702,1597,25.59
+Indonesia,Maize,34539,2702,1597,27.22
+Indonesia,Maize,34539,2702,1597,27.48
+Indonesia,Maize,34539,2702,1597,27.44
+Indonesia,Maize,34539,2702,1597,27.11
+Indonesia,Maize,34539,2702,1597,27.77
+Indonesia,Potatoes,164014,2702,1597,25.59
+Indonesia,Potatoes,164014,2702,1597,27.22
+Indonesia,Potatoes,164014,2702,1597,27.48
+Indonesia,Potatoes,164014,2702,1597,27.44
+Indonesia,Potatoes,164014,2702,1597,27.11
+Indonesia,Potatoes,164014,2702,1597,27.77
+Indonesia,"Rice, paddy",45739,2702,1597,25.59
+Indonesia,"Rice, paddy",45739,2702,1597,27.22
+Indonesia,"Rice, paddy",45739,2702,1597,27.48
+Indonesia,"Rice, paddy",45739,2702,1597,27.44
+Indonesia,"Rice, paddy",45739,2702,1597,27.11
+Indonesia,"Rice, paddy",45739,2702,1597,27.77
+Indonesia,Soybeans,13006,2702,1597,25.59
+Indonesia,Soybeans,13006,2702,1597,27.22
+Indonesia,Soybeans,13006,2702,1597,27.48
+Indonesia,Soybeans,13006,2702,1597,27.44
+Indonesia,Soybeans,13006,2702,1597,27.11
+Indonesia,Soybeans,13006,2702,1597,27.77
+Indonesia,Sweet potatoes,104128,2702,1597,25.59
+Indonesia,Sweet potatoes,104128,2702,1597,27.22
+Indonesia,Sweet potatoes,104128,2702,1597,27.48
+Indonesia,Sweet potatoes,104128,2702,1597,27.44
+Indonesia,Sweet potatoes,104128,2702,1597,27.11
+Indonesia,Sweet potatoes,104128,2702,1597,27.77
+Indonesia,Cassava,162829,2702,1597,25.66
+Indonesia,Cassava,162829,2702,1597,27.39
+Indonesia,Cassava,162829,2702,1597,27.21
+Indonesia,Cassava,162829,2702,1597,27.55
+Indonesia,Cassava,162829,2702,1597,26.98
+Indonesia,Cassava,162829,2702,1597,27.55
+Indonesia,Maize,34699,2702,1597,25.66
+Indonesia,Maize,34699,2702,1597,27.39
+Indonesia,Maize,34699,2702,1597,27.21
+Indonesia,Maize,34699,2702,1597,27.55
+Indonesia,Maize,34699,2702,1597,26.98
+Indonesia,Maize,34699,2702,1597,27.55
+Indonesia,Potatoes,169363,2702,1597,25.66
+Indonesia,Potatoes,169363,2702,1597,27.39
+Indonesia,Potatoes,169363,2702,1597,27.21
+Indonesia,Potatoes,169363,2702,1597,27.55
+Indonesia,Potatoes,169363,2702,1597,26.98
+Indonesia,Potatoes,169363,2702,1597,27.55
+Indonesia,"Rice, paddy",46201,2702,1597,25.66
+Indonesia,"Rice, paddy",46201,2702,1597,27.39
+Indonesia,"Rice, paddy",46201,2702,1597,27.21
+Indonesia,"Rice, paddy",46201,2702,1597,27.55
+Indonesia,"Rice, paddy",46201,2702,1597,26.98
+Indonesia,"Rice, paddy",46201,2702,1597,27.55
+Indonesia,Soybeans,12878,2702,1597,25.66
+Indonesia,Soybeans,12878,2702,1597,27.39
+Indonesia,Soybeans,12878,2702,1597,27.21
+Indonesia,Soybeans,12878,2702,1597,27.55
+Indonesia,Soybeans,12878,2702,1597,26.98
+Indonesia,Soybeans,12878,2702,1597,27.55
+Indonesia,Sweet potatoes,105267,2702,1597,25.66
+Indonesia,Sweet potatoes,105267,2702,1597,27.39
+Indonesia,Sweet potatoes,105267,2702,1597,27.21
+Indonesia,Sweet potatoes,105267,2702,1597,27.55
+Indonesia,Sweet potatoes,105267,2702,1597,26.98
+Indonesia,Sweet potatoes,105267,2702,1597,27.55
+Indonesia,Cassava,166362,2702,1597,25.5
+Indonesia,Cassava,166362,2702,1597,27.21
+Indonesia,Cassava,166362,2702,1597,27.14
+Indonesia,Cassava,166362,2702,1597,27.29
+Indonesia,Cassava,166362,2702,1597,26.88
+Indonesia,Cassava,166362,2702,1597,27.49
+Indonesia,Maize,36601,2702,1597,25.5
+Indonesia,Maize,36601,2702,1597,27.21
+Indonesia,Maize,36601,2702,1597,27.14
+Indonesia,Maize,36601,2702,1597,27.29
+Indonesia,Maize,36601,2702,1597,26.88
+Indonesia,Maize,36601,2702,1597,27.49
+Indonesia,Potatoes,160919,2702,1597,25.5
+Indonesia,Potatoes,160919,2702,1597,27.21
+Indonesia,Potatoes,160919,2702,1597,27.14
+Indonesia,Potatoes,160919,2702,1597,27.29
+Indonesia,Potatoes,160919,2702,1597,26.88
+Indonesia,Potatoes,160919,2702,1597,27.49
+Indonesia,"Rice, paddy",47052,2702,1597,25.5
+Indonesia,"Rice, paddy",47052,2702,1597,27.21
+Indonesia,"Rice, paddy",47052,2702,1597,27.14
+Indonesia,"Rice, paddy",47052,2702,1597,27.29
+Indonesia,"Rice, paddy",47052,2702,1597,26.88
+Indonesia,"Rice, paddy",47052,2702,1597,27.49
+Indonesia,Soybeans,12908,2702,1597,25.5
+Indonesia,Soybeans,12908,2702,1597,27.21
+Indonesia,Soybeans,12908,2702,1597,27.14
+Indonesia,Soybeans,12908,2702,1597,27.29
+Indonesia,Soybeans,12908,2702,1597,26.88
+Indonesia,Soybeans,12908,2702,1597,27.49
+Indonesia,Sweet potatoes,106643,2702,1597,25.5
+Indonesia,Sweet potatoes,106643,2702,1597,27.21
+Indonesia,Sweet potatoes,106643,2702,1597,27.14
+Indonesia,Sweet potatoes,106643,2702,1597,27.29
+Indonesia,Sweet potatoes,106643,2702,1597,26.88
+Indonesia,Sweet potatoes,106643,2702,1597,27.49
+Indonesia,Cassava,180950,2702,1597,25.32
+Indonesia,Cassava,180950,2702,1597,26.97
+Indonesia,Cassava,180950,2702,1597,27.03
+Indonesia,Cassava,180950,2702,1597,27.18
+Indonesia,Cassava,180950,2702,1597,26.65
+Indonesia,Cassava,180950,2702,1597,27.34
+Indonesia,Maize,40776,2702,1597,25.32
+Indonesia,Maize,40776,2702,1597,26.97
+Indonesia,Maize,40776,2702,1597,27.03
+Indonesia,Maize,40776,2702,1597,27.18
+Indonesia,Maize,40776,2702,1597,26.65
+Indonesia,Maize,40776,2702,1597,27.34
+Indonesia,Potatoes,166719,2702,1597,25.32
+Indonesia,Potatoes,166719,2702,1597,26.97
+Indonesia,Potatoes,166719,2702,1597,27.03
+Indonesia,Potatoes,166719,2702,1597,27.18
+Indonesia,Potatoes,166719,2702,1597,26.65
+Indonesia,Potatoes,166719,2702,1597,27.34
+Indonesia,"Rice, paddy",48948,2702,1597,25.32
+Indonesia,"Rice, paddy",48948,2702,1597,26.97
+Indonesia,"Rice, paddy",48948,2702,1597,27.03
+Indonesia,"Rice, paddy",48948,2702,1597,27.18
+Indonesia,"Rice, paddy",48948,2702,1597,26.65
+Indonesia,"Rice, paddy",48948,2702,1597,27.34
+Indonesia,Soybeans,13119,2702,1597,25.32
+Indonesia,Soybeans,13119,2702,1597,26.97
+Indonesia,Soybeans,13119,2702,1597,27.03
+Indonesia,Soybeans,13119,2702,1597,27.18
+Indonesia,Soybeans,13119,2702,1597,26.65
+Indonesia,Soybeans,13119,2702,1597,27.34
+Indonesia,Sweet potatoes,107743,2702,1597,25.32
+Indonesia,Sweet potatoes,107743,2702,1597,26.97
+Indonesia,Sweet potatoes,107743,2702,1597,27.03
+Indonesia,Sweet potatoes,107743,2702,1597,27.18
+Indonesia,Sweet potatoes,107743,2702,1597,26.65
+Indonesia,Sweet potatoes,107743,2702,1597,27.34
+Indonesia,Cassava,187461,2702,1597,25.54
+Indonesia,Cassava,187461,2702,1597,27.31
+Indonesia,Cassava,187461,2702,1597,27.3
+Indonesia,Cassava,187461,2702,1597,27.63
+Indonesia,Cassava,187461,2702,1597,26.98
+Indonesia,Cassava,187461,2702,1597,27.69
+Indonesia,Maize,42372,2702,1597,25.54
+Indonesia,Maize,42372,2702,1597,27.31
+Indonesia,Maize,42372,2702,1597,27.3
+Indonesia,Maize,42372,2702,1597,27.63
+Indonesia,Maize,42372,2702,1597,26.98
+Indonesia,Maize,42372,2702,1597,27.69
+Indonesia,Potatoes,165123,2702,1597,25.54
+Indonesia,Potatoes,165123,2702,1597,27.31
+Indonesia,Potatoes,165123,2702,1597,27.3
+Indonesia,Potatoes,165123,2702,1597,27.63
+Indonesia,Potatoes,165123,2702,1597,26.98
+Indonesia,Potatoes,165123,2702,1597,27.69
+Indonesia,"Rice, paddy",49985,2702,1597,25.54
+Indonesia,"Rice, paddy",49985,2702,1597,27.31
+Indonesia,"Rice, paddy",49985,2702,1597,27.3
+Indonesia,"Rice, paddy",49985,2702,1597,27.63
+Indonesia,"Rice, paddy",49985,2702,1597,26.98
+Indonesia,"Rice, paddy",49985,2702,1597,27.69
+Indonesia,Soybeans,13483,2702,1597,25.54
+Indonesia,Soybeans,13483,2702,1597,27.31
+Indonesia,Soybeans,13483,2702,1597,27.3
+Indonesia,Soybeans,13483,2702,1597,27.63
+Indonesia,Soybeans,13483,2702,1597,26.98
+Indonesia,Soybeans,13483,2702,1597,27.69
+Indonesia,Sweet potatoes,111920,2702,1597,25.54
+Indonesia,Sweet potatoes,111920,2702,1597,27.31
+Indonesia,Sweet potatoes,111920,2702,1597,27.3
+Indonesia,Sweet potatoes,111920,2702,1597,27.63
+Indonesia,Sweet potatoes,111920,2702,1597,26.98
+Indonesia,Sweet potatoes,111920,2702,1597,27.69
+Indonesia,Cassava,202174,2702,1597,25.57
+Indonesia,Cassava,202174,2702,1597,27.25
+Indonesia,Cassava,202174,2702,1597,27.69
+Indonesia,Cassava,202174,2702,1597,27.46
+Indonesia,Cassava,202174,2702,1597,26.94
+Indonesia,Cassava,202174,2702,1597,27.55
+Indonesia,Maize,44359,2702,1597,25.57
+Indonesia,Maize,44359,2702,1597,27.25
+Indonesia,Maize,44359,2702,1597,27.69
+Indonesia,Maize,44359,2702,1597,27.46
+Indonesia,Maize,44359,2702,1597,26.94
+Indonesia,Maize,44359,2702,1597,27.55
+Indonesia,Potatoes,159445,2702,1597,25.57
+Indonesia,Potatoes,159445,2702,1597,27.25
+Indonesia,Potatoes,159445,2702,1597,27.69
+Indonesia,Potatoes,159445,2702,1597,27.46
+Indonesia,Potatoes,159445,2702,1597,26.94
+Indonesia,Potatoes,159445,2702,1597,27.55
+Indonesia,"Rice, paddy",50153,2702,1597,25.57
+Indonesia,"Rice, paddy",50153,2702,1597,27.25
+Indonesia,"Rice, paddy",50153,2702,1597,27.69
+Indonesia,"Rice, paddy",50153,2702,1597,27.46
+Indonesia,"Rice, paddy",50153,2702,1597,26.94
+Indonesia,"Rice, paddy",50153,2702,1597,27.55
+Indonesia,Soybeans,13726,2702,1597,25.57
+Indonesia,Soybeans,13726,2702,1597,27.25
+Indonesia,Soybeans,13726,2702,1597,27.69
+Indonesia,Soybeans,13726,2702,1597,27.46
+Indonesia,Soybeans,13726,2702,1597,26.94
+Indonesia,Soybeans,13726,2702,1597,27.55
+Indonesia,Sweet potatoes,113272,2702,1597,25.57
+Indonesia,Sweet potatoes,113272,2702,1597,27.25
+Indonesia,Sweet potatoes,113272,2702,1597,27.69
+Indonesia,Sweet potatoes,113272,2702,1597,27.46
+Indonesia,Sweet potatoes,113272,2702,1597,26.94
+Indonesia,Sweet potatoes,113272,2702,1597,27.55
+Indonesia,Cassava,202955,2702,1597,25.38
+Indonesia,Cassava,202955,2702,1597,27.24
+Indonesia,Cassava,202955,2702,1597,27.19
+Indonesia,Cassava,202955,2702,1597,27.39
+Indonesia,Cassava,202955,2702,1597,26.63
+Indonesia,Cassava,202955,2702,1597,27.19
+Indonesia,Maize,45652,2702,1597,25.38
+Indonesia,Maize,45652,2702,1597,27.24
+Indonesia,Maize,45652,2702,1597,27.19
+Indonesia,Maize,45652,2702,1597,27.39
+Indonesia,Maize,45652,2702,1597,26.63
+Indonesia,Maize,45652,2702,1597,27.19
+Indonesia,Potatoes,159562,2702,1597,25.38
+Indonesia,Potatoes,159562,2702,1597,27.24
+Indonesia,Potatoes,159562,2702,1597,27.19
+Indonesia,Potatoes,159562,2702,1597,27.39
+Indonesia,Potatoes,159562,2702,1597,26.63
+Indonesia,Potatoes,159562,2702,1597,27.19
+Indonesia,"Rice, paddy",49802,2702,1597,25.38
+Indonesia,"Rice, paddy",49802,2702,1597,27.24
+Indonesia,"Rice, paddy",49802,2702,1597,27.19
+Indonesia,"Rice, paddy",49802,2702,1597,27.39
+Indonesia,"Rice, paddy",49802,2702,1597,26.63
+Indonesia,"Rice, paddy",49802,2702,1597,27.19
+Indonesia,Soybeans,13681,2702,1597,25.38
+Indonesia,Soybeans,13681,2702,1597,27.24
+Indonesia,Soybeans,13681,2702,1597,27.19
+Indonesia,Soybeans,13681,2702,1597,27.39
+Indonesia,Soybeans,13681,2702,1597,26.63
+Indonesia,Soybeans,13681,2702,1597,27.19
+Indonesia,Sweet potatoes,123289,2702,1597,25.38
+Indonesia,Sweet potatoes,123289,2702,1597,27.24
+Indonesia,Sweet potatoes,123289,2702,1597,27.19
+Indonesia,Sweet potatoes,123289,2702,1597,27.39
+Indonesia,Sweet potatoes,123289,2702,1597,26.63
+Indonesia,Sweet potatoes,123289,2702,1597,27.19
+Indonesia,Cassava,214018,2702,1597,25.59
+Indonesia,Cassava,214018,2702,1597,27.36
+Indonesia,Cassava,214018,2702,1597,27.37
+Indonesia,Cassava,214018,2702,1597,27.49
+Indonesia,Cassava,214018,2702,1597,26.87
+Indonesia,Cassava,214018,2702,1597,27.48
+Indonesia,Maize,48987,2702,1597,25.59
+Indonesia,Maize,48987,2702,1597,27.36
+Indonesia,Maize,48987,2702,1597,27.37
+Indonesia,Maize,48987,2702,1597,27.49
+Indonesia,Maize,48987,2702,1597,26.87
+Indonesia,Maize,48987,2702,1597,27.48
+Indonesia,Potatoes,165820,2702,1597,25.59
+Indonesia,Potatoes,165820,2702,1597,27.36
+Indonesia,Potatoes,165820,2702,1597,27.37
+Indonesia,Potatoes,165820,2702,1597,27.49
+Indonesia,Potatoes,165820,2702,1597,26.87
+Indonesia,Potatoes,165820,2702,1597,27.48
+Indonesia,"Rice, paddy",51360,2702,1597,25.59
+Indonesia,"Rice, paddy",51360,2702,1597,27.36
+Indonesia,"Rice, paddy",51360,2702,1597,27.37
+Indonesia,"Rice, paddy",51360,2702,1597,27.49
+Indonesia,"Rice, paddy",51360,2702,1597,26.87
+Indonesia,"Rice, paddy",51360,2702,1597,27.48
+Indonesia,Soybeans,14854,2702,1597,25.59
+Indonesia,Soybeans,14854,2702,1597,27.36
+Indonesia,Soybeans,14854,2702,1597,27.37
+Indonesia,Soybeans,14854,2702,1597,27.49
+Indonesia,Soybeans,14854,2702,1597,26.87
+Indonesia,Soybeans,14854,2702,1597,27.48
+Indonesia,Sweet potatoes,139290,2702,1597,25.59
+Indonesia,Sweet potatoes,139290,2702,1597,27.36
+Indonesia,Sweet potatoes,139290,2702,1597,27.37
+Indonesia,Sweet potatoes,139290,2702,1597,27.49
+Indonesia,Sweet potatoes,139290,2702,1597,26.87
+Indonesia,Sweet potatoes,139290,2702,1597,27.48
+Indonesia,Cassava,224601,2702,1597,25.48
+Indonesia,Cassava,224601,2702,1597,27.37
+Indonesia,Cassava,224601,2702,1597,27.88
+Indonesia,Cassava,224601,2702,1597,27.34
+Indonesia,Cassava,224601,2702,1597,26.72
+Indonesia,Cassava,224601,2702,1597,27.3
+Indonesia,Maize,48441,2702,1597,25.48
+Indonesia,Maize,48441,2702,1597,27.37
+Indonesia,Maize,48441,2702,1597,27.88
+Indonesia,Maize,48441,2702,1597,27.34
+Indonesia,Maize,48441,2702,1597,26.72
+Indonesia,Maize,48441,2702,1597,27.3
+Indonesia,Potatoes,160184,2702,1597,25.48
+Indonesia,Potatoes,160184,2702,1597,27.37
+Indonesia,Potatoes,160184,2702,1597,27.88
+Indonesia,Potatoes,160184,2702,1597,27.34
+Indonesia,Potatoes,160184,2702,1597,26.72
+Indonesia,Potatoes,160184,2702,1597,27.3
+Indonesia,"Rice, paddy",51520,2702,1597,25.48
+Indonesia,"Rice, paddy",51520,2702,1597,27.37
+Indonesia,"Rice, paddy",51520,2702,1597,27.88
+Indonesia,"Rice, paddy",51520,2702,1597,27.34
+Indonesia,"Rice, paddy",51520,2702,1597,26.72
+Indonesia,"Rice, paddy",51520,2702,1597,27.3
+Indonesia,Soybeans,14161,2702,1597,25.48
+Indonesia,Soybeans,14161,2702,1597,27.37
+Indonesia,Soybeans,14161,2702,1597,27.88
+Indonesia,Soybeans,14161,2702,1597,27.34
+Indonesia,Soybeans,14161,2702,1597,26.72
+Indonesia,Soybeans,14161,2702,1597,27.3
+Indonesia,Sweet potatoes,147465,2702,1597,25.48
+Indonesia,Sweet potatoes,147465,2702,1597,27.37
+Indonesia,Sweet potatoes,147465,2702,1597,27.88
+Indonesia,Sweet potatoes,147465,2702,1597,27.34
+Indonesia,Sweet potatoes,147465,2702,1597,26.72
+Indonesia,Sweet potatoes,147465,2702,1597,27.3
