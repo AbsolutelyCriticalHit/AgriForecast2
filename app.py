@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load('model_rf.pkl')
+model = joblib.load('Iris.py')
 
 st.title("Crop Yield Prediction Web Beta  (Indonesia Only)")
 
@@ -60,3 +60,4 @@ if st.button("Predict", key="predict_button"):
 
     prediction = model.predict(X)[0]
     st.success(f"🌾 Predicted Yield: {prediction:.2f} hg/ha")
+
