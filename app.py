@@ -1,43 +1,62 @@
-import streamlit as st
-import pandas as pd
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
+import streamlit as st 
+import joblib
+import numpy as np
 
-# Load the dataset
-st.title("🌾 Farm Yield Prediction App")
+# Load the trained model
+model = joblib.load('model_rf.pkl')
 
-@st.cache_data
-def load_data():
-    return pd.read_csv("yield_df.csv")
+st.title("Crop Yield Prediction Web Beta  (Indonesia Only)")
 
-farmdata = load_data()
-st.subheader("📊 Dataset Preview")
-st.dataframe(farmdata)
+# Inputs
+rain = st.number_input("Average Rainfall (mm/year)", min_value=0.0)
+temp = st.number_input("Average Temperature (°C)", min_value=0.0)
+pest = st.number_input("Pesticides Used (tonnes)", min_value=0.0)
+item = st.selectbox("Crop Type", [
+    'cassava',
+    'maize',
+    'potatoes',
+    'rice, paddy',
+    'soybeans',
+    'sweet potatoes'
+])
 
-# Prepare features and labels
-X = farmdata[["average_rain_fall_mm_per_year", "avg_temp"]]
-y = farmdata["hg/ha_yield"]
+# Map item input to model column
+item_map = {
+    'cassava': 'Item_cassava',
+    'maize': 'Item_maize',
+    'potatoes': 'Item_potatoes',
+    'rice, paddy': 'Item_rice, paddy',
+    'soybeans': 'Item_soybeans',
+    'sweet potatoes': 'Item_sweet potatoes'
+}
 
-# Split the data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Model column order (must match training)
+model_columns = [
+    'Area',
+    'average_rain_fall_mm_per_year',
+    'pesticides_tonnes',
+    'avg_temp',
+    'Item_cassava',
+    'Item_maize',
+    'Item_potatoes',
+    'Item_rice, paddy',
+    'Item_soybeans',
+    'Item_sweet potatoes'
+]
 
-# Train the model
-model = LinearRegression()
-model.fit(X_train, y_train)
+# Prepare input
+input_data = {col: 0 for col in model_columns}
+input_data['average_rain_fall_mm_per_year'] = np.log(rain + 1)
+input_data['avg_temp'] = np.log(temp + 1)
+input_data['pesticides_tonnes'] = np.log(pest + 1)
+input_data['Area'] = 1  # Hardcoded to Indonesia
+input_data[item_map[item]] = 1  # One-hot for crop
 
-# User Input
-st.subheader("🧮 Predict Crop Yield")
-rainfall = st.number_input("Average Rainfall (mm/year)", value=2702.0, min_value=0.0, step=10.0)
-temperature = st.number_input("Average Temperature (°C)", value=27.5, step=0.1)
+# Final input array
+X = np.array([input_data[col] for col in model_columns]).reshape(1, -1)
 
-if st.button("Predict Yield"):
-    prediction = model.predict([[rainfall, temperature]])[0]
-    st.success(f"🌱 Predicted Yield: {prediction:.2f} hg/ha")
+# Predict
+if st.button("Predict", key="predict_button"):
 
-    # Display R² score
-    score = model.score(X_test, y_test)
-    st.info(f"Model R² Score: {score:.2f}")
-
-# Optionally show the test set and actual values
-with st.expander("📌 Show y_test values"):
-    st.write(y_test.reset_index(drop=True))
+    prediction = model.predict(X)[0]
+    st.success(f"🌾 Predicted Yield: {prediction:.2f} hg/ha")
