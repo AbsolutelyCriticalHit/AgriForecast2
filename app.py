@@ -6,43 +6,37 @@ from sklearn.model_selection import train_test_split
 st.set_page_config(page_title="🌾 Crop Yield Predictor", layout="centered")
 st.title("🌾 Crop Yield Predictor")
 
-# Load CSV directly from the repo
+# Load the dataset (no upload needed)
 DATA_PATH = "yield_df.csv"
+
 try:
-    farmdata = pd.read_csv(DATA_PATH)
+    df = pd.read_csv(DATA_PATH)
     st.success("✅ Dataset loaded successfully!")
+    st.write("Preview of the dataset:")
+    st.dataframe(df.head())
 
-    st.subheader("📄 Data Preview")
-    st.dataframe(farmdata.head())
+    # Features and label (same as Iris.py)
+    X = df[["average_rain_fall_mm_per_year", "avg_temp"]]
+    y = df["hg/ha_yield"]
 
-    target_col = "hg/ha_yield"
-    feature_cols = [col for col in farmdata.columns if col != target_col and pd.api.types.is_numeric_dtype(farmdata[col])]
-
-    # Train the model
-    X = farmdata[feature_cols]
-    y = farmdata[target_col]
+    # Split and train
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
     model = LinearRegression()
     model.fit(X_train, y_train)
 
-    st.success("✅ Model trained on numeric columns")
+    # User inputs
+    st.header("📥 Enter Rainfall and Temperature")
+    rainfall = st.number_input("Average Rainfall (mm/year)", value=2702.0)
+    temperature = st.number_input("Average Temperature (°C)", value=27.5)
 
-    # Input features
-    st.header("📥 Input Values for Prediction")
-    input_data = {}
-    for col in feature_cols:
-        default_val = float(farmdata[col].mean())
-        input_data[col] = st.number_input(f"{col}", value=default_val)
-
-    if st.button("🚀 Predict Yield"):
-        input_df = pd.DataFrame([input_data])
-        prediction = model.predict(input_df)[0]
+    if st.button("🚀 Predict"):
+        pred = model.predict([[rainfall, temperature]])[0]
         score = model.score(X_test, y_test)
 
-        st.subheader(f"🌾 Predicted Yield: `{prediction:.2f} hg/ha`")
-        st.caption(f"Model Accuracy: `{score * 100:.2f}%`")
+        st.subheader(f"🌿 Predicted Yield: `{pred:.2f} hg/ha`")
+        st.caption(f"📊 Model R² Score (Accuracy): `{score * 100:.2f}%`")
 
 except FileNotFoundError:
-    st.error(f"❌ Could not find `{DATA_PATH}` in the repo.")
+    st.error(f"❌ File `{DATA_PATH}` not found.")
 except Exception as e:
     st.exception(e)
